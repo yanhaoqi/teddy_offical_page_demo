@@ -1,0 +1,18 @@
+{
+  "name": "offical_demo",
+  "version": "0.0.1",
+  "description": "teddy offical demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "yanhaoqi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "koa": "2.0.0"
+  }
+}
